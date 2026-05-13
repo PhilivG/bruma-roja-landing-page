@@ -2,6 +2,10 @@
 
 Landing page conceptual de cafe creada como pieza de portafolio.
 
+# Vista previa
+
+https://philivg.github.io/bruma-roja-landing-page/
+
 ## Descripcion
 
 Bruma Roja es una propuesta premium y artesanal inspirada en una tostadora boutique. La landing busca transmitir origen, ritual, sabor y calidad percibida con una direccion visual calida y sensorial.
